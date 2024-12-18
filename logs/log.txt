@@ -1,0 +1,11 @@
+CloudChecker started at 1734513052.1070864
+Loaded config {'webhook': 'https://discord.com/api/webhooks/1095153757915992185/vbEJON6UcAn1_ZEB4gjZujt9C9mi0wkXez3IsqAIPA6S92-pljSIlUvHzBeXXtMlQJFS', 'message': 'name', 'timeout': 30, 'remove_proxies': False}
+Loaded 54872 combos
+Longest name is 3 characters long
+Timeout set to 30
+Remove proxies set to False
+Headers set to {'Content-Type': 'application/json'}
+CloudChecker successfully initiated
+Started RPS calculator thread
+Started title spinner thread
+Started webhook processor thread

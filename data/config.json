@@ -1,0 +1,6 @@
+{
+    "webhook": "https://discord.com/api/webhooks/1095153757915992185/vbEJON6UcAn1_ZEB4gjZujt9C9mi0wkXez3IsqAIPA6S92-pljSIlUvHzBeXXtMlQJFS",
+    "message": "name",
+    "timeout": 30,
+    "remove_proxies": false
+}
